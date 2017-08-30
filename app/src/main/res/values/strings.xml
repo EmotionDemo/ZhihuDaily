@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ZhihuDemo</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title1">title1</string>
+    <string name="what_happened_for_it">what happened for it</string>
+    <string name="tv_from">来自微博</string>
+    <string name="header">Header</string>
+    <string name="footer">footer</string>
+    <string name="no_network">无网络连接</string>
+    <string name="tv_nodata">暂无数据</string>
+    <string name="action_comment">评论</string>
+    <string name="action_praise">点赞</string>
+    <string name="action_share">分享</string>
+    <string name="action_collect">收藏</string>
+    <string name="net_failure">加载失败\n请检查网络设置</string>
+</resources>
